@@ -46,9 +46,9 @@ The program runs in the command line and allows the user to input a custom grid,
 
 --> If a path exists, it will show:
 
-    **o** The list of coordinates for the shortest path.
+     []The list of coordinates for the shortest path.
     
-    **o** A visual representation of the path.
+     []A visual representation of the path.
 
 *Concept used*
 
@@ -64,4 +64,4 @@ It uses:
        
        f(n): g(n) + h(n)
        
-This makes it both effiecient and optimal.
+This makes it both efficient and optimal.
