@@ -65,3 +65,11 @@ It uses:
        f(n): g(n) + h(n)
        
 This makes it both efficient and optimal.
+
+**Future Improvements**
+
+--> Adding diagonal movement structure and support
+
+-->Enhancing through GUI
+
+-->Improve representation of path visualization
