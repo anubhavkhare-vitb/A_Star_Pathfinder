@@ -1,6 +1,7 @@
 # A_Star_Pathfinder
 
 **About the Project**
+
 This project is a simple implementation of A*(A-star) heuristic search in form of a Pathfinding Algorithm using Python.
 
 I worked on this after learning about A* in my AI/ML classes, where it was introduced as one of the most important and efficient search algorithms. I found it really interesting how it combines both cost and heuristic to find the shortest path, so I decided to implement it practically.
